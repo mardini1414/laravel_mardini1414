@@ -17,7 +17,7 @@ simple crud app
 ```bash
     php artisan migrate
     php artisan db:seed
-
+    php artisan serve
 ```
 
 ## Credential
